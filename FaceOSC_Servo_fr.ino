@@ -1,6 +1,6 @@
 // FaceOSC Servo Action
-// by Truth Dare Double Dare / http://truthdaredoubledare.com
-// Jeremy Tai Abbett / Franziska Hübler
+// Franziska Hübler / http://www.huebler.cc
+// Jeremy Tai Abbett / http://jeremy.abbett
 
 #include <Servo.h> 
 
